@@ -7,6 +7,7 @@ My interests lie in backend development, cloud technologies, system design, and 
 From implementing secure authentication systems to solving challenging DSA problems, I enjoy learning, experimenting, and improving every day. I’m always excited about opportunities that allow me to combine problem-solving, innovation, and technology to build solutions that make a real difference. 🚀✨
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhamkumarsingh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajasingh914205@gmail.com) 
 
@@ -16,9 +17,6 @@ From implementing secure authentication systems to solving challenging DSA probl
 ![](https://github-readme-stats.shion.dev/api?username=ShubhamKumar9142&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ShubhamKumar9142&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShubhamKumar9142&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShubhamKumar9142&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
