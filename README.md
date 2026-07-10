@@ -1,3 +1,11 @@
+# 💫 About Me:
+
+I’m a Computer Science Engineering student passionate about building secure, scalable, and efficient software solutions with Java, Spring Boot, MySQL, and modern web technologies. I enjoy transforming complex problems into simple, user-friendly applications, whether it's developing banking systems, designing responsive web platforms, or optimizing backend workflows. ☁️💻
+
+My interests lie in backend development, cloud technologies, system design, and continuously exploring how software can be made more reliable and impactful. I believe in writing clean, maintainable code and collaborating effectively with teams to create meaningful digital experiences.
+
+From implementing secure authentication systems to solving challenging DSA problems, I enjoy learning, experimenting, and improving every day. I’m always excited about opportunities that allow me to combine problem-solving, innovation, and technology to build solutions that make a real difference. 🚀✨
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhamkumarsingh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajasingh914205@gmail.com) 
